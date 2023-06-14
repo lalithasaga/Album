@@ -1,0 +1,40 @@
+
+
+.product {
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .product-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-title {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  .product-price {
+    font-size: 16px;
+    color: #888;
+    margin-top: 5px;
+  }
+  
+  .add-to-cart {
+    background-color: #008cba;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #006a8e;
+  }
+  
+  

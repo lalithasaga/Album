@@ -1,0 +1,38 @@
+
+
+.footer {
+    background-color: #6f9ae6;
+    color: #fff;
+    padding: 20px;
+    margin-top: 10rex;
+  }
+  
+  .footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .footer-text {
+    font-size: 30px;
+    margin-right: 30px;
+  }
+  
+  .social-icons {
+    display: flex;
+
+  }
+  
+  .social-icon {
+    color: #fff;
+    font-size: 24px;
+    margin-right: 10px;
+    background-color:rgb(250, 73, 73);
+  }
+  
+  .social-icon:last-child {
+    margin-right: 0;
+  }
+  
+  
+  
